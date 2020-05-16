@@ -7,13 +7,28 @@ Content management system (CMS) for an Online learning platforms are a great exa
 
 ## Setup
 
+`python -m venv env/educa`
+
+`source env/educa/bin/activate`
+
+`git clone https://github.com/blackMastery/djangocms.git`
+
+`cd djangocms`
+
+`pip install -r requirements.txt`
+
+`python manage.py makemigrations`
+
+`python manage.py migrate`
+
+`python manage.py runserver`
 
 
 # Usage
 
 ## Development
 
-### Want to contribute? Great!
+Want to contribute? Great!
 
 To fix a bug or enhance an existing module, follow these steps:
 
