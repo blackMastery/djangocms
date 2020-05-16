@@ -2,7 +2,7 @@
 
 
 ## Introductions
-* Content management system (CMS) for an Online learning platforms are a great example of * applications where you need to provide tools to generate content with flexibility in mind, it will * demonstrator building functionality users to create course content( text, video, audio) and manage * the content of the courses in a versatile and efficient manner.
+Content management system (CMS) for an Online learning platforms are a great example of applications where you need to provide tools to generate content with flexibility in mind, it will demonstrator building functionality users to create course content( text, video, audio) and manage the content of the courses in a versatile and efficient manner.
 
 
 
